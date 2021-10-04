@@ -4,8 +4,8 @@
 
 ### Sanal Gerçeklik ile E-ticaret Sitesi
 
-## Hazırlayan:
+## Hazırlayan: 1030516409 MAOULID MOHAMED HOUSSEIN
 
-**MAOULID MOHAMED HOUSSEIN**
+**Danışman: Arş. Gör. Fatma Özge Özkök**
 
-Arş. Gör. Fatma Özge Özkök
+
